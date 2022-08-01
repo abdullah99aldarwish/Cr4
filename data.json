@@ -1,0 +1,31 @@
+let Movies = `[{
+    "movieName" :"Harry Poter" ,
+    "img" :"https://cdn.pixabay.com/photo/2015/03/11/01/21/yoda-667955__340.jpg",
+    "description" :"Mysterious",
+    "Likes" : 0
+},{
+    "movieName" : "Joker",
+    "img" :"https://cdn.pixabay.com/photo/2019/09/20/10/44/joker-4491449__340.jpg",
+    "description" :"Scary",
+    "Likes" : 0
+},{
+    "movieName" : "Batman",
+    "img" :"https://cdn.pixabay.com/photo/2020/03/19/07/28/batman-4946610__340.jpg",
+    "description" :"Strong",
+    "Likes" : 0
+},{
+    "movieName" : "clown",
+    "img" :"https://cdn.pixabay.com/photo/2019/11/01/14/23/joker-4594387__340.jpg",
+    "description" :"Spooky",
+    "Likes" : 0
+},{
+    "movieName" : "IGI",
+    "img" :"https://cdn.pixabay.com/photo/2015/09/30/10/41/halo-965258__340.jpg",
+    "description" :"Action",
+    "Likes" : 0
+},{
+    "movieName" : "Leon",
+    "img" :"https://cdn.pixabay.com/photo/2018/07/14/21/38/leon-3538459__340.jpg",
+    "description" :"Love",
+    "Likes" : 0
+}]`;
